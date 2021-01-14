@@ -1,0 +1,15 @@
+#sitePanel {
+  float: right;
+  border: 1px solid beige;
+  background-color: burlywood;
+  height: 500px;
+  width: 5%;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 95%;
+  position: fixed;
+}
+#sitePanel:hover {
+  width: 15%;
+  margin-left: 85%;
+}
