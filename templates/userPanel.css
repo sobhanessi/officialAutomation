@@ -9,6 +9,12 @@
   margin-left: 95%;
   position: fixed;
 }
+#Panelimg {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  padding-left: 2mm;
+}
 #sitePanel:hover {
   width: 14%;
   margin-left: 86%;
