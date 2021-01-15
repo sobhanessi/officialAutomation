@@ -6,16 +6,27 @@
   width: 5%;
   margin-top: 0;
   margin-right: 0;
-  margin-left: 95%;
+  margin-left: 96.5%;
   position: fixed;
+  border-radius: 3.5%;
 }
 #Panelimg {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  padding-left: 2mm;
+  text-align: center;
 }
 #sitePanel:hover {
   width: 14%;
   margin-left: 86%;
+}
+.minimum {
+  display: flex;
+  justify-self: center;
+  height: 80px;
+  width: 50px;
+  border-radius: none;
+}
+#icons {
+  padding-left: 2mm;
 }
